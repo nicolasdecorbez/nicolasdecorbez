@@ -6,5 +6,7 @@ Si c'est le premier repo que vous visitez ici, vous y trouverez quelques informa
 
 Il y a dossier `Administratif`, où vous y trouverez mon CV, ainsi que tous les moyens de me contacter.
 
+---
+
 ### À propos de moi 
 
