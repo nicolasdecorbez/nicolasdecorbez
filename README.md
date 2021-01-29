@@ -1,7 +1,7 @@
 # my_profile
 
 
-### Bienvenue sur mon GitHub ! 
+### Bienvenue sur mon GitHub !
 
 Si c'est le premier repo que vous visitez ici, vous y trouverez quelques informations sur moi, sur mes projets personnels et dans le cadre de mes études.
 
@@ -9,7 +9,7 @@ Il y a dossier `Administratif`, où vous y trouverez mon CV, ainsi que tous les 
 
 ![logo](https://raw.githubusercontent.com/nicolasdecorbez/my_profile/main/Images/logo.png "Logo perso")
 
-### À propos de moi 
+### À propos de moi
 
 Moi, c'est Nicolas Decorbez, j'ai 21 ans et j'habite du côté de Melun (77). Je suis à la recherche d'un contrat en alternance à partir de fin avril dans les domaines de l'adminsys, du dev web ou de la cybersécurité.
 
@@ -19,6 +19,6 @@ J'ai eu l'occasion de beaucoup coder en **C**, en web (**HTML** / **CSS** / **JS
 
 En adminsys, j'ai eu l'occasion de créer et administrer un réseau local avec une gateway, un serveur web, etc. Plus personnellement, j'ai mis en place un serveur pour la domotique sous **Domoticz** et **Homebridge**, ainsi qu'un serveur data sous **Windows Server 2016**.
 
-Tous mes projets sont et seront disponible sur mon [GitHub](https://github.com/nicolasdecorbez), je vous laisse les parcourir si le coeur vous en dit.
+Tous mes projets sont et seront disponible sur mon [GitHub](https://github.com/nicolasdecorbez), je vous laisse les parcourir ;)
 
-N'hésitez pas à me contacter ! 
+N'hésitez pas à me contacter !
