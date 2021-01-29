@@ -1,6 +1,5 @@
 # my_profile
 
-![logo](https://raw.githubusercontent.com/nicolasdecorbez/my_profile/main/Images/logo.png "Logo perso")
 
 ### Bienvenue sur mon GitHub ! 
 
@@ -8,7 +7,7 @@ Si c'est le premier repo que vous visitez ici, vous y trouverez quelques informa
 
 Il y a dossier `Administratif`, où vous y trouverez mon CV, ainsi que tous les moyens de me contacter.
 
----
+![logo](https://raw.githubusercontent.com/nicolasdecorbez/my_profile/main/Images/logo.png "Logo perso")
 
 ### À propos de moi 
 
