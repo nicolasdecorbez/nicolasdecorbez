@@ -1,5 +1,7 @@
 # my_profile
 
+![logo](https://raw.githubusercontent.com/nicolasdecorbez/my_profile/main/Images/logo.png "Logo perso")
+
 ### Bienvenue sur mon GitHub ! 
 
 Si c'est le premier repo que vous visitez ici, vous y trouverez quelques informations sur moi, sur mes projets personnels et dans le cadre de mes études.
