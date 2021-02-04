@@ -7,8 +7,6 @@ Si c'est le premier repo que vous visitez ici, vous y trouverez quelques informa
 
 Il y a dossier `Administratif`, où vous y trouverez mon CV, ainsi que tous les moyens de me contacter.
 
-![logo](https://raw.githubusercontent.com/nicolasdecorbez/my_profile/main/Images/logo.png "Logo perso")
-
 ### À propos de moi
 
 Moi, c'est Nicolas Decorbez, j'ai 21 ans et j'habite du côté de Melun (77). Je suis à la recherche d'un contrat en alternance à partir de fin avril dans les domaines de l'adminsys, du dev web ou de la cybersécurité.
