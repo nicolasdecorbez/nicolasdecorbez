@@ -14,7 +14,7 @@
 
 Le sujet 1002-FR est un humanoïde de type caucasien mesurant 1,87 mètre. Actuellement en poste chez [Edenred France](https://www.edenred.fr/) en tant qu'*apprenti ingénieur DevOps*, il travaille essentiellement sur la migration dans le cloud (MS Azure) d'une infrastructure *On-Premise*.
 
-Ses compétences de développement sont, d'apprès le rapport **█████** rédigé par l'agent B. ██████████ :
+Ses compétences de développement sont, d'après le rapport **█████** rédigé par l'agent B. ██████████ :
 - **Python**
 - **Bash**
 - **JavaScript** / **TypeScript**
