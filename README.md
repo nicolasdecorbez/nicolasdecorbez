@@ -1,22 +1,35 @@
-# About me !
+# 1002-FR
 
+**Sujet n° :** 1002-FR (également surnomé *Nico*)
 
-### Bienvenue sur mon GitHub !
+**Niveau de compétence :** Débutant / Avancé
 
-Si c'est le premier repo que vous visitez ici, vous y trouverez quelques informations sur moi, sur mes projets personnels et dans le cadre de mes études.
+**Dernière formation connue :** ETNA - Prepa accélérée
 
-Il y a dossier `Administratif`, où vous y trouverez mon CV, ainsi que tous les moyens de me contacter.
+**Dernier poste occupé :** Apprenti Ingénieur DevOps
 
-### À propos de moi
+**Fiche de renseignements :** [████████████████████](Administratif/contact.md)
 
-Moi, c'est Nico, j'ai 21 ans.
+---
 
-J'étudie actuellement l'informatique à l'ETNA en cursus préparatoire accéléré. Cette école a adopté la *pédagogie par projet* qui consiste à apprendre au travers d'exemples concrets, et parfois même pour répondre directement à des problèmes d'entreprise ; par exemple, en groupe, nous avons proposé une application Shopify afin d'améliorer le site web d'un partenaire ([lien du site en question](https://monmarche.drindrin.fr/)).
+Le sujet 1002-FR est un humanoïde de type caucasien mesurant 1,87 mètre. Actuellement en poste chez [Edenred France](https://www.edenred.fr/) en tant qu'*apprenti ingénieur DevOps*, il travaille essentiellement sur la migration dans le cloud (MS Azure) d'une infrastructure *On-Premise*.
 
-J'ai eu l'occasion de beaucoup coder en **C**, en web (**HTML** / **CSS** / **JS** / **PHP**). Également, j'ai pu réaliser des API en **Express/NodeJS** , des applications Web en **React** et **Angular**, et des applications en **Java** (Sudoku). Un de mes plus gros projet web était la mise en place d'une boutique en ligne grâce au framework **Laravel**.
+Ses compétences de développement sont, d'apprès le rapport **█████** rédigé par l'agent B. ██████████ :
+- **Python**
+- **Bash**
+- **JavaScript** / **TypeScript**
+  - NodeJs
+  - Express
+  - Angular & React
 
-En adminsys, j'ai eu l'occasion de créer et administrer un réseau local avec une gateway, un serveur web, etc. Plus personnellement, j'ai mis en place un serveur pour la domotique sous **Domoticz** et **Homebridge**, ainsi qu'un serveur data sous **Windows Server 2016**.
+Notre agent met un point d'honneur également sur les compétences de *1002-FR* en **Docker** et son aisance sur les systèmes **Linux**.
 
-Tous mes projets sont et seront disponible sur mon [GitHub](https://github.com/nicolasdecorbez), je vous laisse les parcourir ;)
+---
 
-N'hésitez pas à me contacter !
+Des sources externes rapportent également que le sujet réagit positivement en parlant de :
+- Cinéma
+- Photographie
+- Jeux-Vidéo
+- Automobile
+
+Néamoins, ces sujets doivent être abbordés par des sujets avertis au risque de [DONNÉES MANQUANTES].
