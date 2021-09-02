@@ -32,4 +32,4 @@ Des sources externes rapportent également que le sujet réagit positivement en 
 - Jeux-Vidéo
 - Automobile
 
-Néamoins, ces sujets doivent être abbordés par des sujets avertis au risque de [DONNÉES MANQUANTES].
+Néamoins, ces sujets doivent être abordés par des sujets avertis au risque de [DONNÉES MANQUANTES].
