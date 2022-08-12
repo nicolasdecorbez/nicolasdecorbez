@@ -6,7 +6,7 @@
 
 **Current studies :** ETNA - Bachelor "Cycle d'Ingénierie Informatique"
 
-**Current job :** Software Development & Operation (DevOps)
+**Current job :** DevSecOps Engineer
 
 **Information sheet :** [████████████████████](classified_documents/contact.md)
 
