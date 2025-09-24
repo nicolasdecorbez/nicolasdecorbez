@@ -2,19 +2,13 @@
 
 - **Last Name** : Nicolas
 - **First Name** : DECORBEZ
-- **Age** : 22
+- **Age** : 25
 
 ---
 
-- **City** : Melun, France
+- **Location** : IDF, France
 - **Mail** : [nicolas.decorbez@protonmail.com](mailto:nicolas.decorbez@protonmail.com)
 - **LinkedIn** : [nicolas-decorbez/](https://www.linkedin.com/in/nicolas-decorbez/)
-
----
-
-- **School** : ETNA - École des Technologies Numériques Avancées
-- **Address** : 7 Rue Maurice Grandcoing, 94200 Ivry-sur-Seine
-- **Website** : [etna.io/](https://etna.io/)
 
 ---
 
